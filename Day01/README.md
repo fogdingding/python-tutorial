@@ -1,7 +1,7 @@
 # 今天如果你想爬信件的內容，可以參考這兩篇網頁寫的
-1. [網站連結](http://imsardine.simplbug.com/note/email/python.html)
-2. [網站連結](http://imsardine.simplbug.com/note/imap/python.html )
-
+1. [信件爬衝教學網站連結](http://imsardine.simplbug.com/note/email/python.html)
+2. [信件爬衝教學網站連結](http://imsardine.simplbug.com/note/imap/python.html )
+######## 兩個網站是同一個作者寫的
 **簡單的import 東西 如果沒有就安裝吧。**
 **以下用的是py3版本哦。**
 ``` py
