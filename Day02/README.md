@@ -9,5 +9,5 @@
 ---
 #### 爬蟲的目標網站
 
-1. [氣象局資料]('https://www.cwb.gov.tw/V7/forecast/town368/7Day/1001401.htm')
-2. [觀測站資料]('http://e-service.cwb.gov.tw/HistoryDataQuery/')
+1. [氣象局資料](https://www.cwb.gov.tw/V7/forecast/town368/7Day/1001401.htm)
+2. [觀測站資料](http://e-service.cwb.gov.tw/HistoryDataQuery/)
