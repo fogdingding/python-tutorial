@@ -4,6 +4,6 @@
 
 1.[day0]()
 
-2.信件內容的爬蟲[day1](https://github.com/fogdingding/python-tutorial/blob/master/Day01/day01.md)
+2.信件內容的爬蟲[day1](https://github.com/fogdingding/python-tutorial/tree/master/Day01)
 
 3.網站內容的爬蟲[day2](https://github.com/fogdingding/python-tutorial/blob/master/Day02)
