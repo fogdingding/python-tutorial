@@ -1,9 +1,9 @@
 # 今天如果你想爬信件的內容，可以參考這兩篇網頁寫的
-# http://imsardine.simplbug.com/note/email/python.html
-# http://imsardine.simplbug.com/note/imap/python.html 
+1. [網站連結](http://imsardine.simplbug.com/note/email/python.html)
+2. [網站連結](http://imsardine.simplbug.com/note/imap/python.html )
 
-# //簡單的import 東西 如果沒有就安裝吧。
-# //以下用的是py3版本哦。
+**簡單的import 東西 如果沒有就安裝吧。**
+**以下用的是py3版本哦。**
 ``` py
 import imaplib, inspect
 inspect.getmro(imaplib.IMAP4_SSL)
@@ -51,4 +51,4 @@ message.__class__
 message['SUBJECT'] 
 # 我們就有信件標頭檔案。
 ```
-![信件標頭檔案]()
+![信件標頭檔案](https://github.com/fogdingding/python-tutorial/blob/master/img/%E4%BF%A1%E4%BB%B6%E6%A8%99%E9%A0%AD%E6%AA%94%E6%A1%88.JPG)
