@@ -50,12 +50,16 @@ $jupyter notebook
 >>CTRL+ENTER 執行並留在同一行
 >>點左邊IN[] 顏色變成藍色之後 按下'A'鍵 可以在那一欄新增上面一行
 >>點左邊IN[] 顏色變成藍色之後 按下'B'鍵 可以在那一欄新增上面一行
-![jupyter]()
+
+![jupyter](https://github.com/fogdingding/python-tutorial/blob/master/img/jupyter-00.JPG)
 
 2.[VScode](https://code.visualstudio.com/)
 >>在打開之後，左邊有一個蟲蟲，點下去之後，點選偵錯>新增組態 如圖所示
-![VScode]()
+
+![VScode](https://github.com/fogdingding/python-tutorial/blob/master/img/VScode.JPG)
 
 >>如果要偵錯的話，就在數字的左邊點一下，之後去找蟲蟲在按執行即可 如圖所示
-![VScode-00]()
-![VScode-01]()
+
+![VScode-00](https://github.com/fogdingding/python-tutorial/blob/master/img/VScode-00.JPG)
+
+![VScode-01](https://github.com/fogdingding/python-tutorial/blob/master/img/VScode-01.JPG)
