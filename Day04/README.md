@@ -45,6 +45,21 @@ $pip3 install jupyter
 $jupyter notebook
 ```
 
+2. [anaconda](https://anaconda.org/)
+
+###### 安裝的話，去官網載一下即可。
+>>方便的多環境開發版本
+``` sh
+$conda creadte -n py35 python=3.5 anaconda
+```
+>>查看我現在所在的版本分之
+``` sh
+$conda info --e 
+``` 
+>>切換到我所需要的分支
+``` sh
+$source activate python34
+``` 
 ##### 主要按鍵
 >>SHIFT+ENTER 執行並跳下一行
 >>CTRL+ENTER 執行並留在同一行
@@ -53,7 +68,9 @@ $jupyter notebook
 
 ![jupyter](https://github.com/fogdingding/python-tutorial/blob/master/img/jupyter-00.JPG)
 
-2.[VScode](https://code.visualstudio.com/)
+
+
+3. [VScode](https://code.visualstudio.com/)
 >>在打開之後，左邊有一個蟲蟲，點下去之後，點選偵錯>新增組態 如圖所示
 
 ![VScode](https://github.com/fogdingding/python-tutorial/blob/master/img/VScode.JPG)
@@ -63,3 +80,15 @@ $jupyter notebook
 ![VScode-00](https://github.com/fogdingding/python-tutorial/blob/master/img/VScode-00.JPG)
 
 ![VScode-01](https://github.com/fogdingding/python-tutorial/blob/master/img/VScode-01.JPG)
+
+4. [matplotlib](https://matplotlib.org/)
+>>主要是作為python的圖像化，想要啥圖，就上網參考一下即可。
+
+4. [Bokeh](https://bokeh.pydata.org/en/latest/)
+
+
+5. [seaborn](https://seaborn.pydata.org/)
+
+6. [pandas](https://pandas.pydata.org/)
+
+7. [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)

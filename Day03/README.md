@@ -111,3 +111,50 @@ seq = ['one', 'two', 'three']
 for i, element in enumerate(seq):
     print i, element
 ``` 
+
+7. 字串的部分-[start:end] start開始，不含end。
+``` py
+seq = ['one', 'two', 'three']
+seq = seq[1:3]
+print (seq)
+## ['two', 'three']
+```
+8. OOP(物件導向程式設計)
+>>特點有 封裝(Encapsulation)、 繼承(lnheritance)、 多型(Polymorphism) 為主
+>>類別(class) vs 模組(module)
+
+>>在類別，我們會說他是一種定義一半人/事/物的職責，一個類別主要包括屬性(Propertyy)、方法(Method)
+>>EX.
+>>類別：Developer
+>>屬性：名字、性別、年齡
+>>方法：系統分析、程式
+
+>>類別的物件的資料型別
+
+>>另外建構子的部分為 __init__()  指產生物件的時候，一定會先執行的部分。
+>>另外解構子的部分為 __del__() 指這個物件要消失的時候，就會執行的部分。
+
+>>在類別(class)裡面的函數，第一個參數必須事self，也就是自己本身。
+
+9. 不定個數參數
+###### arguments
+``` py
+def test1 (*name):
+    for n in naem :
+        print (n)
+
+test1('ASD','ASDASD','ASDASD','ASDSADASDASD')
+```
+###### keywords
+``` py
+def test2 (**names):
+    for n in naems :
+        print ("%s一件價格=%s"(n,names[n]))
+
+test2(鳳梨=30,香蕉=20)
+```
+
+
+
+
+
