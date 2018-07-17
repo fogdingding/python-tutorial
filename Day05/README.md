@@ -21,9 +21,9 @@
 2. 混淆矩陣
 >>這個是一個對於正確率迷思的議題，其中一種解釋的方法。
 >>混淆矩陣
->>![混淆矩陣]()
+>>![混淆矩陣](https://github.com/fogdingding/python-tutorial/blob/master/img/%E6%B7%B7%E6%B7%86%E7%9F%A9%E9%99%A3.jpg)
 >>混淆矩陣-題目
->>![混淆矩陣-題目]()
+>>![混淆矩陣-題目](https://github.com/fogdingding/python-tutorial/blob/master/img/%E6%B7%B7%E6%B7%86%E7%9F%A9%E9%99%A3-%E9%A1%8C%E7%9B%AE.jpg)
 ---
 1. PCA_test.py
 >>引用GOOGLE的研究，算出每個字與每個字的距離(把它升維)，所以maybe，is & the的距離是很相近的。
@@ -38,3 +38,6 @@
 
 1. [statsmodels](https://www.statsmodels.org/stable/index.html)
 >> 關於好用的統計工具。
+
+2. [xgboost](https://xgboost.readthedocs.io/en/latest/)
+>> XGboost全名為eXtreme Gradient Boosting(極限梯度提升)，XGboost之所以被稱為Kaggle競賽神器主要是因為在Kaggle上很多比賽的第一名都使用了XGboost
