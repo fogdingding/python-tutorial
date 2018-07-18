@@ -55,7 +55,7 @@ if __name__=='__main__':
     unittest.main()
 ```
 接下來執行tset_circle_area.py ， will see that
->![](https://github.com/fogdingding/python-tutorial/blob/master/img/unittest-NO_OK.JPG)
+>![](https://github.com/fogdingding/python-tutorial/blob/master/img/unittest-NO_OK2.JPG)
 
 明顯我們會看到錯誤訊息，那接下來就是要回去改原始的檔案circle_area.py。
 ```py
@@ -125,3 +125,13 @@ def circle_area(r):
 >![](https://github.com/fogdingding/python-tutorial/blob/master/img/%E9%87%8D%E6%A7%8B-1.png)
 ###### 重構之後的類別圖
 >![](https://github.com/fogdingding/python-tutorial/blob/master/img/%E9%87%8D%E6%A7%8B-2.png)
+---
+Reference
++ [參考影片-簡易版](https://www.youtube.com/watch?v=1Lfv5tUGsn8)
+
++ [參考影片-深入版](https://www.youtube.com/watch?v=6tNS--WetLI&list=PLq9qXNHrmldsx9uOnCjTYAJlnXIk4flRh)
+
++ [參考網站-py3官網](https://docs.python.org/3.4/library/unittest.html#unittest.TestCase)
+
+###### 這是關於 __name__ == '__main__'的
++ [參考影片教學](https://www.youtube.com/watch?v=sugvnHA7ElY)
