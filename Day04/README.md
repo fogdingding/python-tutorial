@@ -1,6 +1,6 @@
 ### 今天上課-Data mining and Big Data processing
 
-+ [參考網站-code範例](https://github.com/mc6666/DataScience) 作者-陳昭明
++ [參考網站-code範例](https://github.com/mc6666/DataScience) 
 ----
 #### 課程大綱
 
