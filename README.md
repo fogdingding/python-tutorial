@@ -9,3 +9,9 @@
 3. 爬蟲-網站內容的爬蟲[day2](https://github.com/fogdingding/python-tutorial/blob/master/Day02)
 
 4. 洗資料-關於CSV的檔案處理[day3](https://github.com/fogdingding/python-tutorial/blob/master/Day03)
+
+5. 
+
+6. 
+
+7. [unittest-python-day6]()
