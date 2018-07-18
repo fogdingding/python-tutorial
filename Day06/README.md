@@ -31,7 +31,7 @@ if __name__=='__main__':
 
 ```
 接下來執行tset_circle_area.py ， will see that
->![]()
+>![](https://github.com/fogdingding/python-tutorial/blob/master/img/unittest-OK.JPG)
 
 2. 
 接下來再精進測試的部分。(處理明顯會錯誤的值)
@@ -55,7 +55,7 @@ if __name__=='__main__':
     unittest.main()
 ```
 接下來執行tset_circle_area.py ， will see that
->![]()
+>![](https://github.com/fogdingding/python-tutorial/blob/master/img/unittest-NO_OK.JPG)
 
 明顯我們會看到錯誤訊息，那接下來就是要回去改原始的檔案circle_area.py。
 ```py
@@ -67,7 +67,7 @@ def circle_area(r):
     return pi*(r**2)
 ```
 接下來執行tset_circle_area.py ， will see that
->![]()
+>![](https://github.com/fogdingding/python-tutorial/blob/master/img/unittest-OK-2.JPG)
 
 3. 
 接下來再精進測試的部分。(處理明顯會錯誤的型態)
@@ -99,7 +99,7 @@ if __name__=='__main__':
 ```
 
 接下來執行tset_circle_area.py ， will see that
->![]()
+>![](https://github.com/fogdingding/python-tutorial/blob/master/img/unittest-NO_OK2.JPG)
 
 明顯我們會看到錯誤訊息，那接下來就是要回去改原始的檔案circle_area.py。
 ```py
@@ -114,9 +114,14 @@ def circle_area(r):
 ```
 
 接下來執行tset_circle_area.py ， will see that
->![]()
+>![](https://github.com/fogdingding/python-tutorial/blob/master/img/unittest-OK-3.JPG)
 
 4. 
 理論上就是透過測試程式去驗證自己所寫的有沒有一些錯誤，進而改進自己的程式能夠完美的被執行。
 為何如此大費周章呢?這牽扯到另一個概念，就是改善程式-重構的概念。
-可以參考 《Refactoring – Improving the Design of Existing Code》 這本書，中文翻譯為 《重構 — 改善既有程式的設計》
+可以參考 《Refactoring – Improving the Design of Existing Code》 這本書，中文翻譯為 《重構 — 改善既有程式的設計》，雖然是JAVA為範例語言，不過還蠻值得看的。
+
+###### 重構之前的類別圖
+>![](https://github.com/fogdingding/python-tutorial/blob/master/img/%E9%87%8D%E6%A7%8B-1.png)
+###### 重構之後的類別圖
+>![](https://github.com/fogdingding/python-tutorial/blob/master/img/%E9%87%8D%E6%A7%8B-2.png)
