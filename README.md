@@ -14,4 +14,4 @@
 
 6. 
 
-7. [unittest-python-day6]()
+7. [unittest-python-day6](https://github.com/fogdingding/python-tutorial/tree/master/Day06)
