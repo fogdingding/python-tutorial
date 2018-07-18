@@ -1,6 +1,6 @@
 ### Unittest in python3
-依據另一篇[Travis_CI-hello]()所寫，能夠自動化幫忙進行測試，但是測試的程式就得要自己學了。
 ---
+依據另一篇[Travis_CI-hello]()所寫，能夠自動化幫忙進行測試，但是測試的程式就得要自己學了。
 ###### 以下是依些基礎概念、程式語法的教學。
 1. 
 如果要做unittest的話，必須有兩個檔案，一個為自寫的程式，另一個為測試 自己寫的程式 的程式。
@@ -133,5 +133,5 @@ Reference
 
 + [參考網站-py3官網](https://docs.python.org/3.4/library/unittest.html#unittest.TestCase)
 
-###### 這是關於 __name__ == '__main__'的
 + [參考影片教學](https://www.youtube.com/watch?v=sugvnHA7ElY)
+###### 這是關於 __name__ == '__main__'的
